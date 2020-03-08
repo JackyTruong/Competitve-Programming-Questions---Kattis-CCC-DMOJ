@@ -1,1 +1,1 @@
-# These are all the coding questions I have done using Java so far from CCC or Kattis
+# These are all the coding questions from CCC or Kattis I have done so far using Java  
